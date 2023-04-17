@@ -11,5 +11,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/test-helpers": "^0.5.16",
+    "@pancakeswap/pancake-swap-lib": "^0.0.4"
+  }
 }
